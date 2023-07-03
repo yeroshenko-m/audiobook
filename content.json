@@ -1,0 +1,56 @@
+{
+    "book_title": "The 7 Habits of Highly Effective People",
+    "book_cover": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/book_cover.jpeg",
+    "chapters": [
+        {
+            "order": 1,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/intro.mp3"
+        },
+        {
+            "order": 2,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_1.mp3"
+        },
+        {
+            "order": 3,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_2.mp3"
+        },
+        {
+            "order": 4,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_3.mp3"
+        },
+        {
+            "order": 5,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_4.mp3"
+        },
+        {
+            "order": 6,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_5.mp3"
+        },
+        {
+            "order": 7,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_6.mp3"
+        },
+        {
+            "order": 8,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_7.mp3"
+        },
+        {
+            "order": 9,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_8.mp3"
+        },
+        {
+            "order": 10,
+            "name": "Intro",
+            "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/outro.mp3"
+        }
+    ]
+}
