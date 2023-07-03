@@ -4,52 +4,52 @@
     "chapters": [
         {
             "order": 1,
-            "name": "Intro",
+            "name": "Introduction",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/intro.mp3"
         },
         {
             "order": 2,
-            "name": "Intro",
+            "name": "Principles and Paradigms",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_1.mp3"
         },
         {
             "order": 3,
-            "name": "Intro",
+            "name": "Habit #1 - Be Proactive",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_2.mp3"
         },
         {
             "order": 4,
-            "name": "Intro",
+            "name": "Habit #2 - Begin with the End in Mind",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_3.mp3"
         },
         {
             "order": 5,
-            "name": "Intro",
+            "name": "Habit #3 - Put First Things First",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_4.mp3"
         },
         {
             "order": 6,
-            "name": "Intro",
+            "name": "Habit #4 - Think Win-Win",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_5.mp3"
         },
         {
             "order": 7,
-            "name": "Intro",
+            "name": "Habit #5 - Seek First to Understand, Then to Be Understood",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_6.mp3"
         },
         {
             "order": 8,
-            "name": "Intro",
+            "name": "Habit #6 - Synergize",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_7.mp3"
         },
         {
             "order": 9,
-            "name": "Intro",
+            "name": "Habit #7 - Sharpen the Saw",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/chapter_8.mp3"
         },
         {
             "order": 10,
-            "name": "Intro",
+            "name": "Final Summary",
             "audio": "https://raw.githubusercontent.com/yeroshenko-m/audiobook/main/audio/outro.mp3"
         }
     ]
